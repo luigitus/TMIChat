@@ -1,0 +1,17 @@
+*.class
+.git
+.gradle
+build
+*.svn
+*~
+target
+*.ipr
+*.iml
+*.iws
+.settings
+.project
+.classpath
+bin
+
+/doc
+*.travis.yml
